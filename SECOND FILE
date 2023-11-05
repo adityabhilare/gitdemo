@@ -1,0 +1,4 @@
+age= int(input("enter value of age = "))
+if (age>18):
+        print("eligible for voting")
+print("got it bro")
